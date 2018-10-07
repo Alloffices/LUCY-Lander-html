@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="19px" viewBox="0 0 141 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>[autoentry]rating_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="127.698444%" y1="63.9141865%" x2="576.150256%" y2="32.8783422%" id="linearGradient-1">
+            <stop stop-color="#1A66FF" offset="0%"></stop>
+            <stop stop-color="#EB2150" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-680.000000, -1072.000000)">
+            <g id="[autoentry]rating_1" transform="translate(680.000000, 1072.000000)">
+                <polygon id="Star" fill="url(#linearGradient-1)" points="10.5251301 15.7719334 4.34479017 19.0211303 5.52513006 12.1392207 0.525130058 7.26542528 7.43496011 6.2613682 10.5251301 0 13.6153 6.2613682 20.5251301 7.26542528 15.5251301 12.1392207 16.7054699 19.0211303"></polygon>
+                <polygon id="Star" fill="#D3E1FD" points="40.5251301 15.7719334 34.3447902 19.0211303 35.5251301 12.1392207 30.5251301 7.26542528 37.4349601 6.2613682 40.5251301 0 43.6153 6.2613682 50.5251301 7.26542528 45.5251301 12.1392207 46.7054699 19.0211303"></polygon>
+                <polygon id="Star" fill="#D3E1FD" points="70.5251301 15.7719334 64.3447902 19.0211303 65.5251301 12.1392207 60.5251301 7.26542528 67.4349601 6.2613682 70.5251301 0 73.6153 6.2613682 80.5251301 7.26542528 75.5251301 12.1392207 76.7054699 19.0211303"></polygon>
+                <polygon id="Star" fill="#D3E1FD" points="100.52513 15.7719334 94.3447902 19.0211303 95.5251301 12.1392207 90.5251301 7.26542528 97.4349601 6.2613682 100.52513 0 103.6153 6.2613682 110.52513 7.26542528 105.52513 12.1392207 106.70547 19.0211303"></polygon>
+                <polygon id="Star" fill="#D3E1FD" points="130.52513 15.7719334 124.34479 19.0211303 125.52513 12.1392207 120.52513 7.26542528 127.43496 6.2613682 130.52513 0 133.6153 6.2613682 140.52513 7.26542528 135.52513 12.1392207 136.70547 19.0211303"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
